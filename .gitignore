@@ -1,4 +1,5 @@
 .venv/
+.DS_Store
 
 # DVC local cache and temporary files
 .dvc/cache/
