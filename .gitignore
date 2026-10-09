@@ -1,0 +1,5 @@
+.venv/
+
+# DVC local cache and temporary files
+.dvc/cache/
+.dvc/tmp/
